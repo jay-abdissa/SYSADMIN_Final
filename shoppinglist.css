@@ -1,0 +1,48 @@
+/*
+Collaborators:Jadah Castillo
+Date: 11/29/2022
+*/
+
+body > div {
+	font-size: 18px;
+	font-family: "Times New Roman", "serif";
+	border: 2px solid;
+	padding: 10px 10px 10px 10px;
+}
+
+[property="item"] {
+	border: 2px solid #3b3355;
+	padding: 10px 10px 10px 10px;
+}
+
+[property="frequentlyBought"] {
+	border: 2px dotted #3b3355;
+	padding: 10px 10px 10px 10px;
+}
+button{
+	border-radius: 12px;
+	margin: 4px 2px;
+}
+.mystores{
+	text-align:center;
+	
+}
+.storehead{
+	text-align:center;
+	margin: 0px;
+	background-color: #dfe6f0;
+	
+}
+.idkhtw{
+	display: none;
+}
+a{
+	padding-right: 20px;
+	text-decoration:none
+}
+.itemstbbg{
+	background-color: #dfe6f0;
+}
+.itemstbfg{
+	background-color: #ffffff;
+}

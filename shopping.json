@@ -1,0 +1,20 @@
+{
+	"item": [
+		{
+			"name": "Garlic",
+			"amount": "3 heads",
+			"store": [
+				"Publics",
+				"Brodies"
+			]
+		},
+		{
+			"name": "Eggs",
+			"amount": 12,
+			"store": [
+				"Publics",
+				"Bottom Dalla"
+			]
+		}
+	]
+}

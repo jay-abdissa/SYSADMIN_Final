@@ -1,0 +1,13 @@
+FROM golang:1.16-alpine
+
+WORKDIR /app
+
+COPY . /app
+COPY . ./
+RUN go mod download
+
+
+RUN go build -o /webapp ./
+EXPOSE 4000
+
+CMD [ "/webapp"]
